@@ -1,0 +1,12 @@
+{
+    "categories": [
+      { "id": 1, "title": "Televisions"},
+      { "id": 2, "title": "Refrigerators"},
+      { "id": 3, "title": "Blenders"}
+    ],
+    "products": [
+      { "id": 1, "cantId": 1, "title": "Beko white fridge freezer" },
+      { "id": 2, "cantId": 1, "title": "Whilpool white fridge freezer" }
+    ]
+    
+  }
